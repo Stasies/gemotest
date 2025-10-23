@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Анализы дома",
-    "title_mobile": "Вызов бригады домой",
+    "title_mobile": "Вызов бригады\nдомой",
     "images": {
       "desktop": "/img/service1.png",
       "mobile": "/img/service1-mobile.png"
