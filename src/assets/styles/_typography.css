@@ -42,6 +42,7 @@ a {
   }
   .link_green {
     font-size: 16px;
+    letter-spacing: 0;
   }
   .text_secondary {
     font-size: 11px;
