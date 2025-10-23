@@ -29,7 +29,6 @@ a {
   opacity: 0.3;
   text-transform: uppercase;
   font-size: 10px;
-  letter-spacing: -0.1px;
 }
 .text_green {
   color: var(--color-secondary);

@@ -84,7 +84,6 @@ const isLineBreak = (index: number) => index === 3 || index === 5;
   width: 14px;
   box-sizing: content-box;
   font-weight: bold;
-  padding-left: 4px;
   vertical-align: middle;
   fill: var(--color-secondary);
   translate: 0 -1px;
