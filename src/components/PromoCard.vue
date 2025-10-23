@@ -1,7 +1,7 @@
 <template>
   <div class="promo-card">
     <div class="promo-img">
-      <img :src="promo.img" alt="" />
+      <img :src="promo.img" aria-hidden="true" />
     </div>
     <div v-if="isMobile" v-html="promo.text.mobile" class="promo-text"></div>
     <div v-else v-html="promo.text.desktop" class="promo-text"></div>

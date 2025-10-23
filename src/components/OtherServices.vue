@@ -32,7 +32,7 @@
           : "Все медицинские услуги Гемотест (35)"
       }}
       <span class="icon"
-        ><img src="/src/assets/icons/arrow.svg" alt="перейти к услугам" />
+        ><img src="/src/assets/icons/arrow.svg" aria-hidden="true" />
       </span>
     </a>
   </section>
