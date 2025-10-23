@@ -6,6 +6,10 @@
 
 ---
 
+## Деплой
+
+[https://gemotest-tau.vercel.app/](https://gemotest-tau.vercel.app/)
+
 ## Особенности
 
 - Mobile-first адаптивная верстка.
