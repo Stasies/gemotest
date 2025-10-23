@@ -12,7 +12,6 @@ a {
   font-size: 13px;
   color: var(--color-secondary);
   font-weight: var(--font-weight-bold);
-  letter-spacing: -0.1px;
 }
 .link_green:visited {
   color: var(--color-secondary);
@@ -42,7 +41,7 @@ a {
   }
   .link_green {
     font-size: 16px;
-    letter-spacing: 0;
+    letter-spacing: -0.1px;
   }
   .text_secondary {
     font-size: 11px;

@@ -126,5 +126,8 @@ const isLineBreak = (index: number) => index === 3 || index === 5;
   .service_no-divider::after {
     content: none;
   }
+  .icon img {
+    padding-left: 4px;
+  }
 }
 </style>
