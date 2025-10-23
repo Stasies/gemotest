@@ -1,0 +1,20 @@
+:root {
+  --color-text: #282c39;
+  --color-primary: #f26531;
+  --color-secondary: #007934;
+  --color-yellow: #fdf8e7;
+  --color-yellow-light: #fefbf3;
+  --color-white: #fff;
+
+  --font-family-base: "Inter", serif;
+
+  --font-weight-regular: 300;
+  --font-weight-semi-bold: 500;
+  --font-weight-bold: 700;
+  --font-weight-extra-bold: 800;
+
+  --line-height-sm: 20px;
+  --line-height-md: 24px;
+  --line-height-lg: 28px;
+  --line-height-xl: 32px;
+}
