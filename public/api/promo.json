@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "img": "/img/fns.svg",
+    "text": {
+      "mobile": "<div class=\"text_green\">Справка в налоговую</div> для оформления<br/>налогового вычета",
+      "desktop": "<div class=\"text_green\">Справка<br/>в налоговую (ФНС)</div> для оформления<br/>налогового вычета"
+    }
+  },
+  {
+    "id": 2,
+    "img": "/img/consultant.svg",
+    "text": {
+      "mobile": "<div class=\"text_green\">Бесплатная<br/>консультация врача</div> по телефону",
+      "desktop": "<div class=\"text_green\">Бесплатная<br/>консультация</div> врача Гемотест<br/>по телефону"
+    }
+  },
+  {
+    "id": 3,
+    "img": "/img/decode.svg",
+    "text": {
+      "mobile": "<div class=\"text_green\">Расшифровка<br/>результатов</div> из других лабораторий",
+      "desktop": "<div class=\"text_green\">Расшифровка<br/>результатов</div> из других<br/>лабораторий"
+    }
+  },
+  {
+    "id": 4,
+    "img": "/img/discount.svg",
+    "text": {
+      "mobile": "<div class=\"text_green\">Бонусная программа</div> «Копите<br/>на здоровье»",
+      "desktop": "<div class=\"text_green\">Бонусная<br/>программа</div> «Копите<br/>на здоровье»"
+    }
+  },
+  {
+    "id": 5,
+    "img": "/img/cancer.svg",
+    "text": {
+      "mobile": "<div class=\"text_green\">Второе мнение</div> от онкоэкспертов<br/>мирового уровня",
+      "desktop": "<div class=\"text_green\">Второе мнение<br/>в онкологии</div> от экспертов<br/>мирового уровня"
+    }
+  }
+]
